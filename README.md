@@ -2,7 +2,7 @@
 - 👀 I’m interested in running analysis through various analytics tools
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Analytics Projects
-- 📫 How to reach me @theycallmeharry on insta :)
+- 📫 How to reach me @theycallmeharry_10 on insta :)
 
 <!---
 GutsyHarry/GutsyHarry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
